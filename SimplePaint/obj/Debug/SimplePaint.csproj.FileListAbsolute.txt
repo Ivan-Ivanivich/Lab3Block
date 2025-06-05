@@ -1,0 +1,11 @@
+D:\dev c#\Lab3\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe.config
+D:\dev c#\Lab3\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe
+D:\dev c#\Lab3\SimplePaint\SimplePaint\bin\Debug\SimplePaint.pdb
+D:\dev c#\Lab3\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.AssemblyReference.cache
+D:\dev c#\Lab3\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Form1.resources
+D:\dev c#\Lab3\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+D:\dev c#\Lab3\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\dev c#\Lab3\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\dev c#\Lab3\SimplePaint\SimplePaint\obj\Debug\SimplePaint.exe
+D:\dev c#\Lab3\SimplePaint\SimplePaint\obj\Debug\SimplePaint.pdb
+D:\dev c#\Lab3\SimplePaint\SimplePaint\obj\Debug\SimplePaint.exe.config
